@@ -1,6 +1,7 @@
 # RaspberryPi_face_detect
-face detect use opencv based on Raspberry Pi 4b
+face detect use opencv based on Raspberry Pi 4b 8g version
 # run
+### get the face bbox and send to server by socket
 ```
 python3 face.py
 ```
